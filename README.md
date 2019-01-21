@@ -1,3 +1,3 @@
 pcktclnr
 
-Retrieve getpocket articles and archive if the're older than 2 months
+Retrieve getpocket articles and archive if they're older than 2 months
